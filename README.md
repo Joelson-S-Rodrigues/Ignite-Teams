@@ -1,5 +1,4 @@
 <p align="center">
-  <img width="200px" alt="Ignite Teams Logo" title="Ignite Teams Logo" src="./.github/logoigniteteams.svg" />
   
   <h1 align="center">Ignite Teams</h1>
 
@@ -165,7 +164,7 @@ Start the server
 
 <div align="center">
 
-(https://www.linkedin.com/in/joelson-rodrigues-896004227/)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1f6feb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joelson-rodrigues-896004227/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-1f6feb?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/VagnerNerves)](https://github.com/Joelson-S-Rodrigues)
 
 </div>
