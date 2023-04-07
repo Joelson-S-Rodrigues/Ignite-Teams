@@ -152,7 +152,7 @@ Start the server
 
 <p align="center">
   <a href="https://github.com/Joelson-S-Rodrigues/igniteteams">
-    <img width="200px" alt="Author Joelson-S-Rodrigues" title="" src="https://avatars.githubusercontent.com/u/96163577?v=4" />
+    <img width="200px"  alt="Author Joelson-S-Rodrigues" title="" src="https://avatars.githubusercontent.com/u/96163577?v=4" />
   </a>
   
   <h3 align="center">Joelson S Rodrigues</h3>
