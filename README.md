@@ -3,9 +3,7 @@
   
   <h1 align="center">Ignite Teams</h1>
 
-  <!-- <p align="center">
-    🔗 <a href="https://URLThisProject.com">https://URLThisProject.com</a> 🔗
-  </p>   -->
+
 
 I developed the Ignite Teams project in React Native, where the creation of classes was developed and within them the creation of teams where people can be placed within each team.
 
@@ -168,7 +166,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Vagn
 ## ✒ Author
 
 <p align="center">
-  <a href="https://avatars.githubusercontent.com/u/96163577?v=4">
+  <a href="https://github.com/Joelson-S-Rodrigues/igniteteams">
     <img width="200px" alt="Author Vagner Nerves" title="Author Vagner Nerves" src="https://github.com/VagnerNerves/default-readme/blob/main/assets/VagnerNerves.svg" />
   </a>
   
