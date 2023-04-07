@@ -3,8 +3,6 @@
   
   <h1 align="center">Ignite Teams</h1>
 
-
-
 I developed the Ignite Teams project in React Native, where the creation of classes was developed and within them the creation of teams where people can be placed within each team.
 
 </p>
@@ -19,18 +17,14 @@ I developed the Ignite Teams project in React Native, where the creation of clas
 - [📂 Folder Structure](#-folder-structure)
 - [🚀 Running the Project](#-running-the-project)
   - [Mobile](#mobile)
-- [🌎 License](#-license)
 - [✒ Author](#-author)
 
 ## 🎥 Implementation Video
 
-https://user-images.githubusercontent.com/40831841/221297886-8f52b7b5-f79d-4a9a-add9-6d1f41706ede.mp4
 
 ## 🎨 Layout
 
 Layout developed by [Rodrigo Gonçalves ](https://www.linkedin.com/in/rodrigo-goncalves-santana/) and [Millena Kupsinskü Martins](https://www.linkedin.com/in/millenakmartins/)
-
-[![Layout in Figma](https://github.com/VagnerNerves/default-readme/blob/main/assets/layout-in-figma.svg)](<https://www.figma.com/file/cQr1IePDFPNHAhwLMLAyjq/Ignite-Teams-(Community)?node-id=102%3A375&t=geNzrHzNT2UmxSHM-1>)
 
 ## 👏 Learning and more Implementations
 
@@ -133,7 +127,7 @@ Start the server
 Clone the project
 
 ```bash
-  git clone https://github.com/VagnerNerves/igniteteams.git
+  git clone https://github.com/Joelson-S-Rodrigues/igniteteams.git
 ```
 
 Enter the project directory
@@ -154,33 +148,24 @@ Start the server
   npx expo start
 ```
 
-<!-- ## 📝 Routes
-
-[![Run in Postman](https://github.com/VagnerNerves/default-readme/blob/main/assets/run-in-postman.svg)](https://app.getpostman.com/run-collection/link)
-[![Run in Insomnia](https://github.com/VagnerNerves/default-readme/blob/main/assets/run-in-insomnia.svg)](https://insomnia.rest/run/?label=NAMEPROJECT&uri=LINK) -->
-
-## 🌎 License
-
-This project is under the MIT license. See the [LICENSE](https://github.com/VagnerNerves/igniteteams/blob/master/LICENSE) file for more details.
 
 ## ✒ Author
 
 <p align="center">
   <a href="https://github.com/Joelson-S-Rodrigues/igniteteams">
-    <img width="200px" alt="Author Vagner Nerves" title="Author Vagner Nerves" src="https://github.com/VagnerNerves/default-readme/blob/main/assets/VagnerNerves.svg" />
+    <img width="200px" alt="Author Joelson-S-Rodrigues" title="" src="https://avatars.githubusercontent.com/u/96163577?v=4" />
   </a>
   
-  <h3 align="center">Vagner Nerves</h3>
+  <h3 align="center">Joelson S Rodrigues</h3>
 
   <p align="center">
-    Made with love and hate 😅, get in touch!
+  Developer web/mobile
   </p>
 </p>
 
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1f6feb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnernervessantos/)](https://www.linkedin.com/in/vagnernervessantos/)
-[![Gmail Badge](https://img.shields.io/badge/-vagnernervessantos@gmail.com-1f6feb?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vagnernervessantos@gmail.com)](mailto:vagnernervessantos@gmail.com)
+(https://www.linkedin.com/in/joelson-rodrigues-896004227/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-1f6feb?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/VagnerNerves)](https://github.com/Joelson-S-Rodrigues)
 
 </div>
