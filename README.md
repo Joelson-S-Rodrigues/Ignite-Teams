@@ -168,7 +168,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Vagn
 ## ✒ Author
 
 <p align="center">
-  <a href="https://github.com/VagnerNerves">
+  <a href="https://avatars.githubusercontent.com/u/96163577?v=4">
     <img width="200px" alt="Author Vagner Nerves" title="Author Vagner Nerves" src="https://github.com/VagnerNerves/default-readme/blob/main/assets/VagnerNerves.svg" />
   </a>
   
