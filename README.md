@@ -155,11 +155,14 @@ Start the server
     <img width="200px"  alt="Author Joelson-S-Rodrigues" title="" src="https://avatars.githubusercontent.com/u/96163577?v=4" />
   </a>
   
-  <h3 align="center">Joelson S Rodrigues</h3>
-
   <p align="center">
+ Atualmente meu foco está sendo trabalhar com React-Native visando sempre utilizar das melhores praticas, Css-in-Js, Context api, Redux, Hooks, Axios, conhecimento em apis da web dentre outros.
+ Busco sempre me atualizar e me considero um dev agil. 
+ Determinado, focado, e muito feliz em saber que mesmo estudando a vida toda, vamos ter sempre o que pesquisar no Stack Overflow.</p>
+
+  <h4 align="center">
   Developer web/mobile
-  </p>
+  </h4>
 </p>
 
 <div align="center">
